@@ -1,0 +1,22 @@
+Executive summary - abstract
+K solve garkeo, kina gareko, kasari gareko - 1 page
+
+Introduction
+Explain about dataset with proper citation
+Basic problem statements - very simple - layman le bujne gari - pure non technical
+Objectives - this should be technical
+
+Literature review
+Methodology
+	Strategy 1: 
+	Strategy 2:  -> meaning 2 kun kun strategy le kam gareko and just zyst code snippets haru halne, implementation strategy haru use garne
+
+Analysis
+	Which strategy is better and why
+Results
+References
+Appendix
+
+
+
+-Total 1700 dekhi 2000 words matra
